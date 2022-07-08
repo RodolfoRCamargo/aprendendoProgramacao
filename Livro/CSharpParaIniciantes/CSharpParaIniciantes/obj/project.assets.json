@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rodol\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\dougl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trabalho\\Douglas\\aprendendoProgramacao\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\CSharpParaIniciantes.csproj",
+      "projectUniqueName": "C:\\Projeto\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\CSharpParaIniciantes.csproj",
       "projectName": "CSharpParaIniciantes",
-      "projectPath": "C:\\Trabalho\\Douglas\\aprendendoProgramacao\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\CSharpParaIniciantes.csproj",
-      "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-      "outputPath": "C:\\Trabalho\\Douglas\\aprendendoProgramacao\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\obj\\",
+      "projectPath": "C:\\Projeto\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\CSharpParaIniciantes.csproj",
+      "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+      "outputPath": "C:\\Projeto\\Livro\\CSharpParaIniciantes\\CSharpParaIniciantes\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
