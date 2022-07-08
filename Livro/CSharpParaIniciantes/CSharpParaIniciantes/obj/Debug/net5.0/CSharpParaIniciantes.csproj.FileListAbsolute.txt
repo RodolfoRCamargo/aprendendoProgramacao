@@ -1,0 +1,15 @@
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.exe
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.deps.json
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.runtimeconfig.json
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.runtimeconfig.dev.json
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.dll
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\ref\CSharpParaIniciantes.dll
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\bin\Debug\net5.0\CSharpParaIniciantes.pdb
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.AssemblyInfoInputs.cache
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.AssemblyInfo.cs
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.csproj.CoreCompileInputs.cache
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.dll
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\ref\CSharpParaIniciantes.dll
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.pdb
+C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.genruntimeconfig.cache
