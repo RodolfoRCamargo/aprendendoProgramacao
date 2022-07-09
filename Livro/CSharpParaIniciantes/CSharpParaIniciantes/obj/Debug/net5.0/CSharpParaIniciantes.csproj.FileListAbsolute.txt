@@ -13,3 +13,10 @@ C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaI
 C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\ref\CSharpParaIniciantes.dll
 C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.pdb
 C:\Trabalho\Douglas\aprendendoProgramacao\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.genruntimeconfig.cache
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.csproj.AssemblyReference.cache
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.AssemblyInfoInputs.cache
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.AssemblyInfo.cs
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.csproj.CoreCompileInputs.cache
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.dll
+C:\Projeto\Livro\CSharpParaIniciantes\CSharpParaIniciantes\obj\Debug\net5.0\CSharpParaIniciantes.pdb
